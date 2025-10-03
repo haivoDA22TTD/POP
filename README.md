@@ -1,4 +1,5 @@
-# 🧠 Lập Trình Hướng Thủ Tục (POP - Procedural-Oriented Programming)
+# 🧠 Lập Trình Hướng Thủ Tục 
+(POP - Procedural-Oriented Programming)
 
 ## 📌 Giới thiệu
 
